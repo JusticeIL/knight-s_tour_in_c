@@ -55,3 +55,6 @@ dkms.conf
 x64/
 Debug/
 .vs/
+
+#Ignore the vxcprpj user
+*.vcxproj.user
