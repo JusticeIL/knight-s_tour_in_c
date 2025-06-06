@@ -1,0 +1,5 @@
+﻿  display.c
+  treePath.c
+C:\Users\User\Desktop\temp\knights_tour\knights_tour\treePath.c(33,17): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  knights_tour.vcxproj -> C:\Users\User\Desktop\temp\knights_tour\x64\Debug\knights_tour.exe
