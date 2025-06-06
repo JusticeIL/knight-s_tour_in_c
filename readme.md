@@ -34,8 +34,8 @@ This project implements a Knight’s Tour solver on a 5x5 chessboard using recur
    Click the `Start Without Debugging` button.
 
 4. **Enter a position in the console window**  
-   Enter, using your keyboard, a valid pawn position in a 5x5 chessboard to a new console window opened,
-   and wait for the results to print in the console window.
+   Enter, using your keyboard, a valid pawn position in a 5x5 chessboard to a new console window opened,  
+   and wait for the results to print in the console window.  
    for example, a valid pawn position:
    ```bash
    E 3
