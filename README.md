@@ -1,4 +1,4 @@
-# Knight’s Tour Solver — Path Tree Generator
+# Knight’s Tour
 
 ## Authors
 
