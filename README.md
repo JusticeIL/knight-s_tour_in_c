@@ -27,7 +27,8 @@ This project implements a Knight’s Tour solver on a 5x5 chessboard using recur
    ```
 
 2. **Open the project**  
-   open the file `called knights_tour.sln`.
+   open the file called `knights_tour.sln`.
+
 
 3. **Play the .sln file**  
    click the `Start Without Debugging` button and follow the menu instructions opened in a new console window.
